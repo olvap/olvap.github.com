@@ -4,7 +4,7 @@ title: "Instalando SO"
 date: 2013-08-26 10:55
 comments: true
 share: true
-categories: [install]
+categories: [install, basic]
 ---
 
 Instalar el sistema operativo en un raspberry es realmente simple y a modo se receta de cocina te cuento lo que necesitas
