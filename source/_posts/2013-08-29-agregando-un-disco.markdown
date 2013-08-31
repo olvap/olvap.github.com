@@ -4,6 +4,7 @@ title: "Agregando un Disco"
 date: 2013-08-29 15:16
 comments: true
 categories: [basic, HD]
+published: false
 ---
 
 Vamos a agregar un disco a nuestro Raspberry, a decir verdad, no es distinto a agregar un disco en cualquier linux, pero con pequeñas diferencias.
@@ -16,3 +17,11 @@ La solución que más me gusto, dado que mi disco rígido no tiene para conectar
 Repasado todo esto, conectamos el disco al raspberry en lo encendemos.
 
 link a la [ip estatica](/blog/2013/08/29/ip-estatica/)
+
+cd /media/
+sudo mkdir usbhdd
+mount -t ntfs-3g /dev/sdb1 /media/usbhdd
+mount -t vfat /dev/sdb1 /media/usbhdd
+
+sudo nano /etc/fstab
+/dev/sda1	/media/USBHDD	ext4	defaults	  0	  0
