@@ -52,6 +52,12 @@ $ ifconfig
 Tenemos que ver algo como esto
 
 ```
-eth0 Link ...
-inet addr:192.168.0.100 ...
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet static
+address 10.0.0.10
+netmask 255.255.255.0
+gateway 10.0.0.1
 ```
