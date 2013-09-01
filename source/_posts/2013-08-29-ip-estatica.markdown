@@ -4,7 +4,7 @@ title: "IP Estatica"
 date: 2013-08-29 11:24
 comments: true
 share: true
-categories: [basic]
+categories: [básico]
 ---
 
 Hacer que el Raspberry tenga un IP estática, es igual que con cualquier otro linux, así que los pasos vas a ser similares.
