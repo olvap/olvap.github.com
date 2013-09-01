@@ -3,7 +3,7 @@ layout: post
 title: "Clinte torrent"
 date: 2013-08-30 20:06
 comments: true
-categories:
+categories: [media center, transmissions]
 published: false
 ---
 
