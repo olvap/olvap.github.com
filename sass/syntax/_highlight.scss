@@ -3,11 +3,22 @@ table {
 
   td.gutter {
     width: 20px;
+    pre {
+      background-color: #ECECEC;
+      color: #AAAAAA;
+    }
   }
 
   td.code {
     pre {
       background-color: #333333;
+      color: #737373;
+    }
+  }
+
+  td.line-data {
+    background-color: #333333;
+    pre {
       color: #737373;
     }
   }
