@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "IP estatica en Raspbmc"
-date: 2013-08-30 19:14
+title: "IP estática en Raspbmc"
+date: 2013-09-16 19:14
 comments: true
-categories:
-published: false
+categories: [raspmbc, media_center]
+published: true
 ---
 
+Cambiar La dirección de IP habiendo instalado raspmbc se puede hacer sin tener que entrar en la consola y simplemente desde la interfaz gráfica.
 
-In XBMC, go to Programs → Raspbmc settings → Wired network configuration.
-Uncheck the Automatic DHCP option.
-Provide a static IP address. Make sure the IP address is far away from the IP addresses typically assigned by the router to the networked devices at home. For example, if a router assigns addresses starting from 192.168.0.10, then pick a static IP like 192.168.0.50
-Scroll down and check the Update Now option. Raspbmc will take a few seconds to apply the new configuration.
-Make sure you can ping the static IP address you assigned. Voila, your Raspbmc now has a fixed IP address!
+Para esto seguimos estos pasos
+Programs → Raspbmc settings → Wired network configuration.
+deshabilitar la opción Automatic DHCP.
+
+Escribimos la dirección de IP que necesitemos.
+
+Y sobre el final pulsamos la opción 'Update Now' y esperamos unos segundos a que los cambios se apliquen.
+
+Ya deberíamos poder hacer ping a esta dirección.
