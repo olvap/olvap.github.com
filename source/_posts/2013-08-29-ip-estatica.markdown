@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IP Estatica"
+title: "IP Estática"
 date: 2013-08-29 11:24
 comments: true
 share: true
