@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clinte torrent"
+title: "Cliente torrent"
 date: 2013-08-30 20:06
 comments: true
 categories: [media center, transmissions]
