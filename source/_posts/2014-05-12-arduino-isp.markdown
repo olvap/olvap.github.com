@@ -3,11 +3,11 @@ layout: post
 title: "Arduino ISP"
 date: 2014-05-12 19:59
 comments: true
-categories: Arduino ISP
+categories: [Arduino, ISP]
+published: false
 ---
 
 Vamos a ver como programar un microcontrolador AtTiny, más precisamente [AtTiny85], usando el IDE de Arduino para escribir el programa y el Arduino como grabador. Esto nos va a permitir guardar progrmas des hasta 6k en el microcotrolador.
-
 
 Procedimiento
 
