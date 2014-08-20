@@ -4,7 +4,7 @@ title: "Arduino ISP"
 date: 2014-05-12 19:59
 comments: true
 categories: [Arduino, ISP]
-published: false
+published: true
 ---
 
 Vamos a ver como programar un microcontrolador AtTiny, más precisamente [AtTiny85], usando el IDE de Arduino para escribir el programa y el Arduino como grabador. Esto nos va a permitir guardar programas des hasta 6k en el microcotrolador.
@@ -29,7 +29,7 @@ Procedimiento
 - Pin de del Reset ATtiny al del Pin 10 Arduino (o al RESET en otro programador)
 - Pin 8 del ATtiny a 5v del Arduino
 - Pin 4 del ATtiny a tierra del arduino
-- Por último poné ucapacitor entre reset y tierra del arduino.
+- Por último poné un capacitor entre reset y tierra del arduino.
 
 ### Copiá el modulo para ATtiny
 
@@ -58,7 +58,7 @@ pinMode(0, OUTPUT);
 
 - Conectá un led con una resisteancia de ~100 oms al pin 5 (PB0) del y tierra
 - Cambiá el programador a ArduinoISP
-- Cambia la tarjeta por ATtiny85
+- Cambiá la tarjeta por ATtiny85
 - Subí el programa.
 
 Si hiciste todo bien, deberías ver como parpadea el led.
