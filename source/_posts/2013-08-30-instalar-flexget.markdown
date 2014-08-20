@@ -25,7 +25,35 @@ Para funcionar es necesario escribir un archivo de configuración donde básicam
 
 Acá hay un ejemplo.
 
-{% gist 6476819 %}
+
+``` yml
+
+tasks:
+  rlslog_yify:
+    rss: http://yify-torrents.com/rss/0/1080p/All/0
+    imdb:
+      min_score: 6.1
+    download: ~/torrents/
+
+  rlslog_dvdrips:
+    rlslog: http://www.rlslog.net/category/movies/dvdrip/
+    imdb:
+      min_score: 6.1
+      min_votes: 5000
+      min_year: 2006
+      reject_genres:
+        - documentary
+        - musical
+        - music
+        - biography
+    download: ~/torrents/
+
+  show_rss:
+    rss: http://showrss.karmorra.info/rss.php?user_id=136117
+    all_series: yes
+    download: ~/torrents
+
+```
 
 Para asegurar que el archivo de configuración no tiene ningún problema, podemos correr
 
