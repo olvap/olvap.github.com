@@ -7,7 +7,7 @@ categories: [Arduino, ISP]
 published: false
 ---
 
-Vamos a ver como programar un microcontrolador AtTiny, más precisamente [AtTiny85], usando el IDE de Arduino para escribir el programa y el Arduino como grabador. Esto nos va a permitir guardar progrmas des hasta 6k en el microcotrolador.
+Vamos a ver como programar un microcontrolador AtTiny, más precisamente [AtTiny85], usando el IDE de Arduino para escribir el programa y el Arduino como grabador. Esto nos va a permitir guardar programas des hasta 6k en el microcotrolador.
 
 Procedimiento
 
@@ -61,7 +61,7 @@ pinMode(0, OUTPUT);
 - Cambia la tarjeta por ATtiny85
 - Subí el programa.
 
-SI hiciste todo bien, deberías ver como parpadea el led.
+Si hiciste todo bien, deberías ver como parpadea el led.
 
 Referencias: [http://highlowtech.org/?p=1695](http://highlowtech.org/?p=1695)
 
