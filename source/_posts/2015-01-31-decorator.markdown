@@ -3,7 +3,7 @@ layout: post
 title: "decorator"
 date: 2015-01-31 08:57
 comments: true
-categories: %w(Ruby MVC OOP)
+categories: Ruby MVC OOP
 published: false
 ---
 
