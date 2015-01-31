@@ -7,7 +7,7 @@ categories: vim
 ---
 
 La creatividad a la hora de inventar nuevas formas de escribir una palabra está muy poco valorada estos días.
-Como yo soy de lo más creativo, necesito una herramienta que me haga para un poco.
+Como yo soy de lo más creativo, necesito una herramienta que me haga parar un poco.
 
 Para mi sorpresa, vim ya trae un diccionario incluido y es de lo más simple de usar.
 
