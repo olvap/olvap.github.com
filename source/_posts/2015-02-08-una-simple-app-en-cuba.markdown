@@ -29,7 +29,7 @@ Para esto creamos un archivo oculto dentro de la carpeta de la aplicación .ruby
 
 > el 'punto' al principio del nombre del archivo es importante
 
-[Cuba] no solo es minimalista, sino que también, te alienta serlo. Lo primero que vamos a instalar es [dep].
+[Cuba] no solo es minimalista, sino que también, te alienta a serlo. Lo primero que vamos a instalar es [dep].
 [Dep][dep] es una gema del mismo creador de Cuba, [soveran] y el objetivo de la gema es administrar las dependencias.
 
 ``` ruby
