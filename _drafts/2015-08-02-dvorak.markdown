@@ -1,0 +1,94 @@
+---
+layout: post
+title: "dvorak"
+date: 2015-08-02 13:28
+comments: true
+categories: dvorak
+---
+
+En 1868 Sholes, inventó la primera máquina de escribir, como era de esperarse, las teclas de esta máquina
+estaban ordenadas en forma alfabética. El mecanismo era similar al de las máquinas de escribir que vemos hoy.
+Con la diferencia de que la letra que se grababa en el papel lo hacía por debajo del la linea de visión del usuario
+y por lo tanto no se podía estar seguro de lo que se había tipeado hasta que la linea avanzara. Este problema hizo que
+las primeras copias de este diseño no se vendieran demasiado. El sistema tenia otro error y era que cuando una
+letra golpeaba el papel, era su peso, el que la hacia volver a su lugar. Esto provocaba que la maquina se trabara
+si el usuario tipeaba muy rápido. Para resolver este inconveniente, Sholes, puso las letras de tal forma de que letras
+que comúnmente se encuentran consecutivas en el idioma inglés, estuvieran separadas en el teclado. De esa forma inventó
+el layout de teclado que conocemos hoy en día, el teclado qwerty. Llamado así por las 6 primeras letras con las que comienza.
+
+Como dije, la primera versión no se vendió muy bien, no por el extraño layout que tenia, sino porque los usuarios
+no podían ver lo que tipeaban. Por esto Sholes inventa una segunda máquina que imprimía los caracteres a la vista del
+usuario y resolvía al mismo tiempo que las teclas se trabaran agregando un resorte en cada tecla para que volviera mucho
+más rápido a su lugar de reposo. Estos cambios hicieron que las máquinas de escribir incrementaran sus ventas 10 veces.
+100.000 máquinas por año eran vendidas en los estados unidos, todas con el layout qwerty.
+
+Consiente del problema que había creado, Sholes intenta cambiar el layout, con una segunda versión, pero para el año 1900,
+las ventas habían crecido tanto que los fabricantes de máquinas de escribir lo veían como una locura.
+
+Qwerty se había convertido en un layout defacto al mismo tiempo que se había vuelta obsoleto.
+
+En 1938, Agust Dvorak, investiga e inventa un nuevo layout. Este nuevo layout tiene las teclas ordenadas de tal forma
+que, entre otras cosas, el usuario necesite  mover los dedos lo menos posible. Esto produce que el tipeo sea más
+rápido, se produzcan menos lesiones en las manos y que su aprendizaje sea más rápido.
+
+No es muy difícil de imaginar que alguien que intencionalmente hubiera la intención de hacer un teclado que produjera estas ventajas
+consiguiera un significado avance sobre otro que intencionalmente halla querido lo opuesto.
+
+Sin embargo, si compramos un teclado, usamos una computadora, o vemos una maquina de escribir, por nueva que sea,
+seguimos usando el teclado qwerty. 140 años después, de inventado y casi 80 años después de que demostraron su ineficiencia
+la resistencia al cambio está presente. En su último año de vida, Dvorak, dijo "estoy cansado de tratar hacer algo útil para
+la raza humana, simplemente no quieren cambiar"
+
+Me parece que este es un buen ejemplo de porque la gente no quiere cambiar. Es más fácil hacer lo que ya sabemos y
+es difícil aprender cosas nuevas. Es la diferencia clave entre entender simple y complicado. Aunque parezca extraño,
+lo simple es difícil y lo fácil es lo complicado. El layout de Dvorak es más simple, pero aprenderlo significa dejar
+de ser productivo con qwerty y invertir tiempo en aprender este nuevo conocimiento. Qwerty por otro lado es más fácil
+de usar, porque para seguir usándolo no tengo que hacer nada, pero al mismo tiempo es lo más complejo, porque requiere
+que invierta cada vez que lo uso un poquito más de tiempo.
+
+Nota:
+cuanto tiempo de más estas perdiendo por usar qwerty? los resultados varían para cada persona pero en general son de un 6%
+y en algunos casos llegan al 100% mas de tiempo. Si pensas que todavía te quedan 40 años de usar un teclado, yo diría que
+te podes ahorrar muchísimo tiempo por solo invertir un mes en estudiar el teclado Dvorak
+
+Nota:
+Cuanto tiempo lleva aprender Dvorak? Cuando Agust Dvorak hizo su estudio, entrenó 2 grupos de personas que nunca habían
+usado un teclado antes. El grupo que aprendió qwerty demoró 50 horas en lograr 40 palabras por minuto, mientras que el
+grupo que aprendió Dvorak, logró el mismo resultado en 18 horas.
+
+Esta idea de perder un poquito de tiempo cada vez en lugar de invertirlo todo junto, genera una deuda técnica que al igual
+que la deuda financiera, debe ser pagada en el futuro y de igual forma, genera intereses. Va a llegar un momento donde
+la suma de todas estas deudas se vuelva impagable y es en ese momento, en el que te volviste obsoleto. Claro está
+que no podemos estar actualizados en todo tipo de conocimientos todo el tiempo. Debemos elegir cuando endeudarnos y cuando
+no. Creo que al igual que en la economía, la deuda es factible en cuanto nos aumente la productividad. Que a lo mejor
+es fácil de cardinal izar en economía, pero difícil de hacer en cuanto a conocimiento.
+
+"Necesito terminar este trabajo este mes, no tengo tiempo para aprender esta otra cosa que me haría más fácil este
+trabajo ahora"
+
+Te tengo noticias. Una cualidad incuestionable del tiempo es que cada vez tenés menos. Si hoy no tenes tiempo,
+mañana vas a tener menos.
+
+Pero, si aprender dvorak, no significa una perdida de la productividad, no significa invertir demasiado tiempo e
+implica una mejora tanto en la calidad y la salud del que lo usa, ¿por qué no lo usamos?
+
+Simple, por miedo.
+
+Lo primero que noto cuando le cuento a alguien sobre dvorak, sobre todo a los que escriben muchas palabras por minuto,
+es un sentimiento de miedo a perder lo que ya saben, incluso cuando entienden que no van a dejar de saber usar el qwerty
+por aprender un layout nuevo, tiene rechazo a descartar un conocimiento en el cual invirtieron mucho tiempo. Es probable
+que las personas que tuvieron clases de mecanografía(yo soy una) sientan que todo ese tiempo fue desperdiciado, si
+aprenden algo que deja obsoleto el conocimiento anterior. ¿Pero no es peor seguir desarrollando una técnica que sabes
+que es obsoleta?
+
+Las personas que trabajamos en informática estamos acostumbrados a descartar conocimiento. Según las estadísticas de
+Stackoverflow, las edades en que los desarrolladores de informática dejan de trabajar como programadores son a los 25
+y a los 35 años(mas o menos). Creo que estás personas, no lograron descartar lo que sabían, para aprender algo nuevo.
+Si conoces algún programador de mas de 30, probablemente entienda este concepto. Si tiene más de 40 probablemente
+logro aplicar esta idea.
+
+Conclusión:
+Para avanzar y no endeudarnos lo que tenemos que hacer es superar el miedo. Citando al profesor xavier, el conocimiento
+supera al miedo. En un ciclo infinito, el conocimiento a lo mejor lo es, pero si no estás aprendiendo algo por
+miedo, puede que todavía no sepas lo suficiente al respecto y si no estás aprendiendo algo por falta de tiempo, recordá
+que muy probablemente mañana tampoco lo vas a tener.

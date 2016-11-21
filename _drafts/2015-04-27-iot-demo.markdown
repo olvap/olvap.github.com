@@ -1,0 +1,82 @@
+---
+layout: post
+title: "IOT demo"
+date: 2015-04-27 21:26
+comments: true
+categories: MQTT
+---
+
+Este va a ser mi primer demo de Internet of things(IOT). En este ejemplo voy a tratar de controlar
+un led conectado al raspberry desde un sitio web. Por lo tanto la app va a tener 2 partes, la parte
+del raspberry y la parte de la web.
+
+## Raspberry
+Acá voy a poner la lógica de prender y apagar el led. Para esto voy a escribir en el raspberry un
+bloque de código en Ruby que se va a quedar esperando a la llegada de un mensaje via MQTT. Cuando
+este mensaje llegué según el mensaje, el led se prenderá o apagará
+
+nota: este código require que instales ruby y las gemas pi_piper y mqtt
+
+``` ruby
+require 'pi_piper'
+require 'mqtt'
+
+pin = PiPiper::Pin.new(:pin => 18, :direction => :out)
+
+MQTT::Client.connect('test.mosquitto.org') do |c|
+  # If you pass a block to the get method, then it will loop
+  c.get('test') do |topic,message|
+    message == 'on' ? pin.on : pin.off
+  end
+end
+
+```
+
+El led tiene que estar colocado al pin 18 con una resistencia de []oms
+
+## Web
+
+Para la parte web vamos a escribir un solo archivo index.html. Para establecer la conección mqtt vamos
+a installa [paho], que es una libreria de mqtt para javascript.
+
+básicamente necesitamos escribir 2 botones html
+
+``` html
+
+<button type="button" class="btn btn-lg btn-primary" onclick="message('on')">ON</button>
+<button type="button" class="btn btn-lg btn-danger" onclick="message('off')">OFF</button>
+
+```
+La función message, será la encargada de enviar via MQTT el mesaje que apagará o prenderá el led, para
+eso voy a necesitar el siguiente js
+
+
+``` javascript
+// Create a client instance
+client = new Paho.MQTT.Client('test.mosquitto.org', 8080, 'random_client_id');
+
+// set callback handlers
+client.onConnectionLost = onConnectionLost;
+
+// connect the client
+client.connect({onSuccess:onConnect});
+
+// called when the client connects
+function onConnect() {
+  // Once a connection has been made.
+  console.log("Connected");
+}
+
+function message(text){
+  message = new Paho.MQTT.Message(text)
+  message.destinationName = 'test'
+  client.send(message)
+}
+```
+
+Ecá se puede ver el [index.html] completo
+
+Para probarlo, tenés que dejar corriendo el código ruby que escribimos en el raspberry y abrir con un
+browser el index.html
+
+Cuando hagas click en los botones on y off el led se aprenderá y apagará respectivamente.
