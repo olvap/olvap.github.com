@@ -13,22 +13,45 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: Raspeando
+email: oldani.pablo@gmail.com
+username: Pablo Oldani
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Estas son las cosas que voy aprendiendo y no quiero olvidar.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: olvap
+github_username:  olvap
+gplus_username: 109703747745777584880
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-gravatar
+# Links to include in menu navigation
+# links:
+#   - title: home
+#     url: /
+#   - title: my posts
+#     url: /posts
+#   - title: series
+#     url: /series
+#   - title: tags
+#     url: /tags
+#   - title: about me
+#     url: /about
+# # projects in header index
+# projects:
+#   - name: asciilang
+#     url: https://github.com/victorvoid/asciilang
+#   - name: vim-frontend
+#     url: https://github.com/victorvoid/vim-frontend
+#   - name: generator-capybara
+#     url: https://github.com/victorvoid/generator-capybara
+# exclude my node related stuff
 exclude:
+  - ['package.json', 'src', 'node_modules']
   - Gemfile
   - Gemfile.lock

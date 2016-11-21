@@ -19,6 +19,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.8.0)
       jekyll (~> 3.3)
+    jekyll-gravatar (0.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -47,10 +48,11 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
+  jekyll-gravatar
   minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.3.0p0
+   ruby 2.2.3p173
 
 BUNDLED WITH
    1.13.6
