@@ -3,10 +3,10 @@ layout: post
 title: "Divisor de Voltaje"
 date: 2016-11-19 14:50
 comments: true
-category: electronica
+category: electrónica
 tags:
-  - electronica
-  - basico
+  - electrónica
+  - básico
 ---
 
 Un divisor de voltaje divide en dos parte el voltaje de una fuente.
