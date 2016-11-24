@@ -2,7 +2,6 @@
 layout: post
 title: "Divisor de Voltaje"
 date: 2016-11-19 14:50
-comments: true
 category: electrónica
 tags:
   - electrónica
@@ -36,5 +35,6 @@ $$ Vout = V1*R2/(R1+R2) $$
 {:.note.yellow}
 
 referencias:
+
 * [http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/voldiv.html](http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/voldiv.html)
 
