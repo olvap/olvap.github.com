@@ -1,0 +1,65 @@
+---
+layout: post
+title: "Comandos AT en el Esp8266"
+date: 2016-12-11T20:03:13-03:00
+category: electrónica
+serie: Esp8266
+tags:
+  - electrónica
+  - programables
+  - esp8266
+---
+
+El esp8266 es un componente programable que permite la comunicación
+inalámbrica. Es un modulo muy barato, cuesta entre 1 y 3 dolares.
+Existen varios modelos, pero voy a describir el esp8266-01
+
+![divisor de voltaje](/assets/img/posts/esp8266.jpg)
+
+## Comandos AT
+
+El modulo tiene un software pre instalado y puede configurarse mediante
+comandos AT, o sea, se puede configurarse escribiendo en el puerto serie,
+mediante una serie de comandos específicos.
+
+![divisor de voltaje](/assets/img/posts/help-esp8266-firmware-update-usbuart.png)
+
+Para esto debe iniciarse el ESP en modo normal y esto se logra desconectando
+el Pin0.
+
+La comunicación con el modulo se hace por medio del puerto serie, Arduino trae
+una herramienta llamada "serial monitor" que permite leer y escribir en los puertos
+
+Por ejemplo, si en el input del serial monitor, se escribe el comando `AT+GMR`
+en el puerto y se mostrará la versión actual del firmware, algo parecido a
+`0018000902-AI03`.
+
+## Sintaxis
+
+Existen muchos comandos distintos que pueden ser usados, como crear o
+unirse a una red de wifi. Todos los comandos empiezan con el string AT+
+y terminan con el carácter de fin de carro \<cr\>
+
+### Test
+`AT+CMD=?`, terminación en `=?`, devuelve la lista de posibles valores para el parámetro.
+
+### Query
+`AT+CMD?`, terminación en `?`, devuelve el valor actual del parámetro.
+
+### Execute
+`AT+CMD`, ejecuta el comando `CMD`.
+
+### Set
+`AT+CMD=Parameter`, es igual al anterior, pero lo que esta a la derecha del igual, es el valor del primer
+parámetro. Se pueden pasar múltiples parámetros separados por coma.
+
+> **Ejemplo:**
+>
+> `AT+CWJAP="my-test-wifi","1234test"`
+>
+> Esto hace que el modulo se configure en modo AP donde "my-test-wifi" es el nombre de la red
+> y "1234test", la contraseña.
+
+ref: [Lista completa de commandos][0]
+
+[0]: https://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/#at-commands 'at commands'
