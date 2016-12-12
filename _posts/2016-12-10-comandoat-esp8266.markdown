@@ -22,16 +22,16 @@ El modulo tiene un software pre instalado y puede configurarse mediante
 comandos AT, o sea, se puede configurarse escribiendo en el puerto serie,
 mediante una serie de comandos específicos.
 
-![divisor de voltaje](/assets/img/posts/help-esp8266-firmware-update-usbuart.png)
-
 Para esto debe iniciarse el ESP en modo normal y esto se logra desconectando
 el Pin0.
 
+![divisor de voltaje](/assets/img/posts/help-esp8266-firmware-update-usbuart.png)
+
 La comunicación con el modulo se hace por medio del puerto serie, Arduino trae
-una herramienta llamada "serial monitor" que permite leer y escribir en los puertos
+una herramienta llamada "serial monitor" que permite leer y escribir en estos puertos.
 
 Por ejemplo, si en el input del serial monitor, se escribe el comando `AT+GMR`
-en el puerto y se mostrará la versión actual del firmware, algo parecido a
+se leerá en pantalla la versión actual del firmware, algo parecido a
 `0018000902-AI03`.
 
 ## Sintaxis
