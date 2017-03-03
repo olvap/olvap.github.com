@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "El dia que viene del futuro"
-date: 2016-11-20T15:04:56-03:00
+date: 2017-03-01
+category: ficcion
 ---
 
 Hace unos meses, estaba soñando que me encontraba combatiendo entre llamas a un
 grupo de fantasmas. Estaba con Liza, mi pareja, pero ella se había acobardado,
-cedido bajo la presión de la tarea y me había abandonado a mi suerte..
+cedido bajo la presión de la tarea y me había abandonado a mi suerte.
 
 En la parte más emocionante del sueño, me despiertan a sacudidas. Veo a una
-persona de avanzada edad, unos 80 años,  Pero apenas me despierto, sale
+persona de avanzada edad, unos 80 años, pero apenas me despierto, sale
 corriendo del cuarto.  No lo pude seguir. El ventilador de pie se estaba
 prendiendo fuego y sacaba muchísimo humo. Enseguida abrí todas las ventanas e
 insistí para que Liza se despertara. Saqué el ventilador del cuarto (estaba
