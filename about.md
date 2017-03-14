@@ -23,20 +23,18 @@ description:
   </p>
 
   <p>
-  Hoy creo que compartir código es la mejor forma de crecer como programador,
-  me gusta, participo y organizo distintos tipos de actividades en las
-  distintas tecnologías que me interesan, como ser Ruby, IOT, Software Libre.
-  Trabajo con pasión por lo que hago con altos niveles éticos y morales. Me
-  encanta se parte de un grupo que no se frena y decide avanzar por el mejor
-  camino aunque no siempre sea el más fácil.
+  Me gusta, participo y organizo distintos tipos de actividades en tecnologías
+  como, Ruby, IOT y Software Libre.  Trabajo con pasión por lo que hago con
+  altos niveles éticos y morales. Me encanta se parte de un grupo que no se
+  frena y decide avanzar por el mejor camino aunque no siempre sea el más
+  fácil.
   </p>
 
 jobs:
   - title: ThinkCERCA - Julio 2015 - Presente
     description:
-      En Thinkcerca trabajo como desarrollador backend developer, escribiend
-      principalment en Ruby on Rails para un sitio e-learning que se encuetra
-      en uso en el 30% de las escuelas de USA
+      En Thinkcerca trabajo escribiendo principalment en RoR para un sitio
+      e-learning que se encuetra en uso en el 30% de las escuelas de USA
 
   - title: Hacktatory - Septiembre 2016 - Presente
     description:
@@ -61,5 +59,5 @@ jobs:
   - title: Mutual Central Coronda - 2003 - 2009
     description:
       Mis tareas consistieron en desarrollar y mantener aplicaciones de
-      escritorio escritas en Cobel y C.
+      escritorio escritas en Cobol y C.
 ---
