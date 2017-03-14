@@ -1,0 +1,163 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pablo Oldani CV</title>
+    <link href="http://thomasf.github.io/solarized-css/solarized-light.min.css" rel="stylesheet"></link>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <style>
+h1 {
+  background-color: gold;
+  margin: -16px;
+  padding: 23px;
+  text-align: right;
+  border-bottom: thick solid black;
+}
+
+h4 {
+  font-size: 1.1em;
+  margin-bottom: 0;
+}
+
+ul {
+  list-style: outside none none;
+  padding: 0px;
+  margin: 10px;
+}
+
+.fa-stack{
+  color: #859900;
+}
+
+aside {
+  font-size: 0.9em;
+  float: right;
+  width: 30%;
+  margin-right: -16px;
+  margin-top: 16px;
+  background-color: #002B36;
+  padding-left: 10px;
+}
+
+.gravatar {
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  margin:0px auto;
+  display:block;
+}
+
+progress {
+  background-color: #c1c1c1;
+  border: 0;
+  height: 10px;
+  width: 100%;
+}
+
+progress[value] {color:#859900} /* IE10 */
+progress::-webkit-progress-bar-value {background:#859900}
+progress::-webkit-progress-value {background:#859900}
+progress::-moz-progress-bar {background:#859900}
+
+footer {
+  overflow: auto;
+  width: 100%;
+}
+    </style>
+  </head>
+
+  <body>
+    <h1>Pablo Oldani</h1>
+    <aside>
+      <img src="https://www.gravatar.com/avatar/ef4406ac235fdb0f2d326f451d2a5ff4.png?s=200" class="gravatar">
+      <ul>
+        <li>
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
+          </span>
+          Santa Fe, Argentina</li>
+        <li>
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
+          </span>
+          10/4/1981 (35 years old)</li>
+        <li>
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+          </span>
+          oldani.pablo@gmail.com</li>
+        <li>
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+          </span>
+          +954 (342) 509-7578</li>
+        <li>
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+          </span>
+          <a href="http://github.com/olvap">olvap</a>
+        </li>
+        <li>
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+          </span>
+          <a href="https://www.linkedin.com/in/oldanipablo/en?locale=en_US&trk=profile_view_lang_sel_click">oldanipablo</a>
+        </li>
+      </ul>
+
+      <h3>{{page.skills}}</h3>
+
+      <h4>{{page.profesional}}:</h4>
+
+      <ul>
+        <li>Ruby</li>
+        <progress value="92" max="100"></progress>
+        <li>OOP</li>
+        <progress value="90" max="100"></progress>
+        <li>TDD</li>
+        <progress value="91" max="100"></progress>
+        <li>HTML5</li>
+        <progress value="85" max="100"></progress>
+        <li>CSS3</li>
+        <progress value="82" max="100"></progress>
+        <li>JS</li>
+        <progress value="81" max="100"></progress>
+        <li>SQL</li>
+        <progress value="87" max="100"></progress>
+      </ul>
+
+      <h4>{{page.personal}}:</h4>
+      <ul>
+        {% for skill in page.personal_skills %}
+          <li>{{skill.name}}</li>
+          <progress value={{skill.value}} max="100"></progress>
+        {% endfor %}
+      </ul>
+    </aside>
+
+    <h2>{{page.hello}}</h2>
+    {{ page.description }}
+
+    <h3>{{page.employment}}</h3>
+
+    {% for job in page.jobs %}
+      <section>
+        <h4>{{job.title}}</h4>
+        {{job.description}}
+      </section>
+    {% endfor %}
+
+    <footer>
+    </footer>
+  </body>
+
+</html>
