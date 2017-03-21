@@ -9,12 +9,12 @@ tener que convivir con ellos. No porque me caigan mal, sino porque ensucian y no
 me gusta tener que limpiar.
 
 Uno tiene que entender muy bien las ventajas y desventajas de tener mascotas y
-tiene que entender también que lo que uno considera algo bueno puede no serlo
+tiene que entender también, que lo que uno considera algo bueno puede no serlo
 para el otro. Por ejemplo, a mi no me va ni me viene lo adorable que pueda ser
-un cachorrito y mi novia se aterra con la idea de que el animal case distintas
-alimañas, cosa que considero fundamental. Por el otro lado, el animal se imparte
+un cachorrito y mi novia, se aterra con la idea de que el animal case distintas
+alimañas, cosa que considero fundamental. Por el otro lado, la mascota se imparte
 de orgullo cuando deja en tus pies una presa muerta y en el caso de los gatos,
-media viva, aunque a mi me molesta porque tengo que ir por la palita y limpiarlo
+medio viva, aunque a mi me molesta porque tengo que ir por la palita y limpiarlo
 y para colmo soportar la mirada del animal que no entiende porque desprecio su
 ofrenda hacia mi. Mañana le traigo uno mas grande, piensa la bestia.
 
