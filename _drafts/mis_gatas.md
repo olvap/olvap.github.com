@@ -4,7 +4,7 @@ title: "Mis Gatas"
 ---
 
 Cuando nos mudamos, Liza tenia muy en claro que ella quería tantos gatos y
-perros como podría juntar. Por mi lado, los animales me gustan pero prefiero no
+perros como pudiese juntar. Por mi lado, los animales me gustan pero prefiero no
 tener que convivir con ellos. No porque me caigan mal, sino porque ensucian y no
 me gusta tener que limpiar.
 
