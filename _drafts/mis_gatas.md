@@ -38,7 +38,7 @@ que nos invita a comer todos los domingos. Después de pensarlo un rato,nos dice
 \- Lo que hay que hacer entonces es hablar mal de los otros gatitos.
 
 Ahí nos miramos con liza y telepáticamente decidimos en ese momento que íbamos a
-adoptar a la gata. A veces hay que aceptar, que perder la unica opción antes de
+adoptar a la gata. A veces hay que aceptar, que perder es la única opción antes de
 embarrarte en mierda para ganar.
 
 Al final la nombramos Yukie.
