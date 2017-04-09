@@ -32,12 +32,13 @@ en cualquier publicidad de alimentos para gatos.
 
 Desilusionados y cansados le comentamos el problema a mi madre. Le contamos
 como la gente esquivaba a nuestra gata y se llevaban a los otros gatitos.
-Mi mamá, militó en política toda la vida. Hoy es una abuela
+Entonces mi madre, que militó en política toda la vida y que hoy es una abuela
 que nos invita a comer todos los domingos. Después de pensarlo un rato,nos dice
 
 \- Lo que hay que hacer entonces es hablar mal de los otros gatitos.
 
-Ahí nos miramos con Liza. A veces hay que aceptar, que perder la unica opción antes de
+Ahí nos miramos con liza y telepáticamente decidimos en ese momento que íbamos a
+adoptar a la gata. A veces hay que aceptar, que perder la unica opción antes de
 embarrarte en mierda para ganar.
 
 Al final la nombramos Yukie.
