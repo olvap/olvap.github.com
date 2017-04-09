@@ -33,7 +33,7 @@ en cualquier publicidad de alimentos para gatos.
 Desilusionados y cansados le comentamos el problema a mi madre. Le contamos
 como la gente esquivaba a nuestra gata y se llevaban a los otros gatitos.
 Entonces mi madre, que militó en política toda la vida y que hoy es una abuela
-que nos invita a comer todos los domingos. Después de pensarlo un rato,nos dice
+que nos invita a comer todos los domingos. Después de pensarlo un rato, nos dice
 
 \- Lo que hay que hacer entonces es hablar mal de los otros gatitos.
 
