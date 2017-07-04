@@ -60,3 +60,6 @@ anotado en la libreta que llevo todos los días y copio textual de ahí:
 "Fundar una empresa que desarrolle e instale software libre en el estado."
 
 Todos están invitados a acompañarme en el total o parcialmente a este objetivo.
+Se que es difícil y hay muchas cosas que necesitamos y no sabemos o no tenemos,
+pero hasta hace muy poco dudábamos si podíamos armar un espacio propio que se
+basara en colaboración y la auto organización.
