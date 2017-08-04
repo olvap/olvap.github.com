@@ -50,8 +50,10 @@ solo había una persona que podía tener razones para volver en el tiempo a
 salvarme la vida. “Yo nunca conocí a mi padre…” La respuesta me pego en la cara
 de repente. Otra de mis reglas para viajar en el tiempo es evitar volver antes
 del día de tu concepción, podría ser riesgoso.  Corrí de la cocina a al cuarto,
-prendí la luz, desperté a liza, la miré a los ojos y le dije
+prendí la luz, desperté a Liza, la miré a los ojos y le dije
 
-\- Liza, estás embarazada!  Una semana después el test dio positivo.  Tengo
+\- Liza, estás embarazada!  
+
+Una semana después el test dio positivo.  Tengo
 razones para creer, que es una nena...
 
