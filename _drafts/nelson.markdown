@@ -28,29 +28,29 @@ finalmente, respondió a las provocaciones...
 
 No fue hasta entrado los 20 años, en una reunión de la escuela, que Nelson pudo
 tomar venganza de lo que había ocurrido en su niñez. A esta reunión, habían ido
-todos sus ex compañeros, no faltó ni uno. Uno de esos compañeros era Gonzalo
-Muñoz. Gonzalo era un tipo grandote, de esos que escupen cuando hablan, te
+todos sus ex compañeros, no faltó ni uno. Uno de esos compañeros era Sebastían
+Muñoz. Sebastían era un tipo grandote, de esos que escupen cuando hablan, te
 abrazan por el cuello. Repite dos veces cada remate de chiste y hasta tres si
 no te reís, brusco.  Todos sus chistes hacían alusión a la des indigencia
 femenina o tenían como personaje principal a un "puto". En fin, el bully de la
 escuela.
 
-La reunión no tenia ni una hora de haber empezado y Gonzalo ya había contado
+La reunión no tenia ni una hora de haber empezado y Sebastían ya había contado
 tres anécdotas donde lo habían maltratado a Nelson. "Te acordás gordo, cuando
-te pusimos caca en la mochila?", decía Gonzalo mientras buscaba complicidad en
+te pusimos caca en la mochila?", decía Sebastían mientras buscaba complicidad en
 la mirada de los otros. "Y la vez que te bajamos los pantalones y te los
 rompimos sin querer?", "o la vez que te escribimos esas cartitas de parte de
 Lucia?". Cada anécdota terminaba en una carcajada fuerte y ruidosa, pero
 Nelson, no se movía, estaba impoluto (me desconcierta cual será el significado
 que le dás a esta palabra).
 
-"Gonzalo", dijo finalmente Nelson, todos se callaron. "Te acordás que a vos te
+"Sebastían", dijo finalmente Nelson, todos se callaron. "Te acordás que a vos te
 gustaba jugar al StreetFighter? Y habremos tenido unos 7 años cuando Esteban X
 de 15, te preguntó si no preferías usar su pene en lugar de joystick y lo
 hiciste? y, en ese momento no entendíamos qué pasaba, pero ahora es bastante
 claro que vos lo estabas masturbando?".
 
-Gonzalo se levantó de la silla tan rápido que esta salió arrojada hacia atrás y
+Sebastían se levantó de la silla tan rápido que esta salió arrojada hacia atrás y
 se le notaba en la mirada que iba a matar a Nelson. Pero para cuando dió su
 segundo paso, todos los recuerdos de ese día le pegaron de golpe. Todas las
 sesiones de psicólogo, las pastillas, los viajes de retiro, todo lo que había
