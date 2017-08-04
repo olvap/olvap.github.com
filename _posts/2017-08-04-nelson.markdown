@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Nelson"
-date:
 ---
 
 Pocas personas son tan versátiles como mi amigo Nelson Balzan. Nelson es una de
