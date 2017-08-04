@@ -41,11 +41,10 @@ te pusimos caca en la mochila?", decía Sebastían mientras buscaba complicidad 
 la mirada de los otros. "Y la vez que te bajamos los pantalones y te los
 rompimos sin querer?", "o la vez que te escribimos esas cartitas de parte de
 Lucia?". Cada anécdota terminaba en una carcajada fuerte y ruidosa, pero
-Nelson, no se movía, estaba impoluto (me desconcierta cual será el significado
-que le dás a esta palabra).
+Nelson, no se movía, estaba estoico.
 
 "Sebastían", dijo finalmente Nelson, todos se callaron. "Te acordás que a vos te
-gustaba jugar al StreetFighter? Y habremos tenido unos 7 años cuando Esteban X
+gustaba jugar al StreetFighter? Y habremos tenido unos 7 años cuando Esteban
 de 15, te preguntó si no preferías usar su pene en lugar de joystick y lo
 hiciste? y, en ese momento no entendíamos qué pasaba, pero ahora es bastante
 claro que vos lo estabas masturbando?".
