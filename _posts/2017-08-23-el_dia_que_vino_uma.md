@@ -4,10 +4,8 @@ title: "El día que nació uma, primera parte."
 date: 2017-08-21
 category: ficción
 ---
-## Primera parte. El día que nació Uma
-
 Ese dia había comido un pastel de papas y carne que me había caído mal. Lo
-compre hecho en una roticeria.  No me gusta comprar comida hecha, porque
+compre hecho en una roticería.  No me gusta comprar comida hecha, porque
 siempre tengo la idea de que no lavan bien los ingredientes. Hace un tiempo
 había comprado una tarta de verduras. En uno de los mordiscos que hago, siento
 algo medio durito y al primer mordisco pensé que tenia nueces. Al segundo
@@ -22,11 +20,11 @@ La comida es todo un tema para mi. Los últimos meses vengo aumentando mucho de
 peso. En parte porque compro mucha comida hecha y mucha harina. Hace algunos
 meses me decidí a salir a correr. Al menos tres veces por semana cuatro
 kilómetros. Lo hago bastante seguido, pero esta última semana había estado por
-demás ocupado y no había salido ningún día. Así que sali a correr pese a mi
+demás ocupado y no había salido ningún día. Así que salí a correr pese a mi
 malestar.
 
 Sin embargo esta vez fue más dolorosa que las anteriores. Ni bien termino la
-primer cuadra, me doblo el tobillo terriblemente. Años atras, me corté uno de
+primer cuadra, me doblo el tobillo terriblemente. Años atrás, me corté uno de
 los tendones del tobillo. No es algo grave, pero cada tanto hago un mal
 movimiento y me doblo tanto la articulación que el choque de los huesos de la
 misma me genera un dolor que me hace traspirar y me da palpitaciones. Solo
@@ -49,5 +47,5 @@ estos nueve meses. Me sentí una persona capaz de entenderlo todo y sin esperar
 a que me dijera algo le dije, "Ahí junto el bolso y pido en taxi, en quince
 salimos para maternidad"
 
-continuará.
+Continuará.
 
