@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "El día que nació uma, primera parte."
-date: 2017-08-21
+title: "El día que nació Uma, primera parte."
+date: 2017-08-23
 category: ficción
 ---
 Ese dia había comido un pastel de papas y carne que me había caído mal. Lo
@@ -49,3 +49,6 @@ salimos para maternidad"
 
 Continuará.
 
+[Parte 2][0]
+
+[0]: /ficci%C3%B3n/2017/08/21/una_nueva_escala.html 'Parte 2'
