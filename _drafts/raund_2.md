@@ -113,9 +113,8 @@ estaba a punto de despatarrarme por el piso.
 El obstetra dijo unas palabras y la parturienta empesó a hacer más fuerza, yo
 no entendí nada porque había perdido la capacidad de comprerder las palabras,
 lo único que oia era un balbuseo con pausas y un zumbido de fondo. Hizo tanta
-fuerza que uno de sus ojos salió volando. Me agache a juntarlo pero cuando
-estiré la mano ella me pego un tirón del otro brazo para que volviera a mi
-puesto.
+fuerza que uno de sus ojos salió volando. Me agache a juntarlo pero la neblina
+era muy espesa y no vei nada por debajo de las rodillas.
 
 La bebe empesó a nacer y parecia que el médico jugaba con una masa de
 plastilina, metiendo los dedos y doblando esa masa multicolor sin forma. Cuando
@@ -127,7 +126,7 @@ Cuando Uma nació tenia 2 cosas en la mano. Una era un rollito de papel blanco
 con una cintita roja en el medio. El médico corto la cintita, desplego el
 papel. Era un titulo de nobleza que declaraba a Uma Litith Oldani Dosso, la
 reina induscutible del mundo. estaba escrito en letras grandes e impresas, no
-esos titulos berretas que le completan con lapicera el nombre. La partera me
+esas plantillas berretas que le completan con lapicera el nombre. La partera me
 declaro como "Sir Papá" y puso a la bebe sobre el pecho de la madre.
 
 Lo otro que traia Uma en la mano era un papelito doblado al medio. Del lado del
