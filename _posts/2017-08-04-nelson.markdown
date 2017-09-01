@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nelson"
+category: ficción
 ---
 
 Pocas personas son tan versátiles como mi amigo Nelson Balzan. Nelson es una de

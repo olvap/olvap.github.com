@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ni blanco ni negro"
+category: poemas
 ---
 
 No todo es blanco y negro. Casi todo es negro y hay muy poco blanco. Algunas

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El dia que viene del futuro"
+title: "El dia que vine del futuro"
 date: 2017-03-01
 category: ficción
 ---

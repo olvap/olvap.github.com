@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Futuro Hackatory"
+category: 'ensayos'
 ---
 
 Todos nacemos con ventajas y desventajas, en un lugar y un momento de la

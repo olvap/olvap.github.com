@@ -2,6 +2,7 @@
 layout: post
 title: "Smarthphone"
 date: 2016-11-20T15:04:56-03:00
+category: 'ensayos'
 ---
 
 ## Un poco de historia
