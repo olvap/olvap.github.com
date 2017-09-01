@@ -51,4 +51,4 @@ Continuará.
 
 [Parte 2][0]
 
-[0]: /ficci%C3%B3n/2017/08/21/una_nueva_escala.html 'Parte 2'
+[0]: /ficción/2017/08/24/una_nueva_escala.html 'Parte 2'

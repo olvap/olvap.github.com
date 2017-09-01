@@ -60,4 +60,7 @@ tiempo. Y la segunda, que estaba teniendo el peor dolor de toda su vida e
 
 Continuará...
 
-[0]: /ficci%C3%B3n/2017/08/21/el_dia_que_vino_uma.html 'Parte 1'
+[Parte 3][1]
+
+[0]: /ficción/2017/08/23/el_dia_que_vino_uma.html 'Parte 1'
+[1]: /ficción/2017/08/24/el_parto.html 'Parte 3'
