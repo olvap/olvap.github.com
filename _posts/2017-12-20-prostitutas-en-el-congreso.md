@@ -6,12 +6,13 @@ autor: Liza
 category: ensayo
 ---
 
-Durante la polémica sesión en el congreso, la Diputada se refirió a sus
-compañeros como las "prostitutas de FMI". Pensando en esto, me doy cuenta que
-la Diputada cometió un  error por ignorancia. Ignoracia que, hasta hace un
-tiempo atrás, yo también padecí. Así que voy a intentar explicar el error de la
-Diputada, para ayudar desde mi lugar a aclarar los conceptos. Exiten, para
-simplificar, al menos dos tipos de prostitutas.
+Durante la polémica sesión en el congreso, la Diputada María Emilia Soria se
+refirió a sus colegas como las "prostitutas de FMI". Pensando en esto, me doy
+cuenta que cometió un  error por ignorancia. Ignoracia que, hasta hace un
+tiempo atrás, yo también padecí. Así que voy a intentar explicar su error, para
+ayudar desde mi lugar a aclarar los conceptos.
+
+Exiten, para simplificar, al menos dos tipos de prostitutas.
 
 El primer tipo, son mujeres, niñas, y niños, que han sido forzados a ejercer la
 prostitución. Han sido privados de muchas de sus libertades y sometidos por la
@@ -23,7 +24,7 @@ El segundo tipo de prostituta son mujeres y hombres que en pleno uso de sus
 facultades han elejido ejecer una profesión que nuestra sociedad todavía ve con
 mala cara, pero que no es más que la oferta de un servicio a cambio de dinero.
 Estas mujeres poseen ética ptofesional, discresión. Cuidan su cuerpo porque es
-su instrumento de trabajo y cuedan de otros. Muchas de estas mujeres son
+su instrumento de trabajo y cuidan de otros. Muchas de estas mujeres son
 militantes feministas que entienden que todos debemos tener la libertad de
 decidir. Tienen conciencia social. Son, por lo tanto, dignas trabajadoras. En
 este caso, la comparación tampoco vale.
