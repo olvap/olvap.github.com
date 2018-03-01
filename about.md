@@ -43,7 +43,7 @@ jobs:
 
   - title: BlueLemons - Enero 2009 - Presente
     description:
-      En bluelemons trabajo ocacionalmente en projectos para clientes de mi
+      En bluelemons trabajo ocacionalmente en proyectos para clientes de mi
       ciudad. Nos especializamos en Ruby on Rails, pero trabajamos con todo el
       abanico de la web, HTML5, CSS3 y Javascript.
 
