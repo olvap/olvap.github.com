@@ -30,7 +30,7 @@ Yo me quede paralizado por unos segundos, hasta el mes anterior, yo venia
 pagando 5000 pesos por mes. Trantando de no parecer confundido, temerosamente le
 dije.
 \- No, decime cuanto te debo de este mes nomas.
-\- 3000 - Me dijo seco.
+\- 30000 - Me dijo seco.
 
 Entonces entendí que se había confundido de carpeta y me estaba confundiendo con
 alguien mas.

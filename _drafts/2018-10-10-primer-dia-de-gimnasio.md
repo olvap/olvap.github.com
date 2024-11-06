@@ -68,3 +68,27 @@ pero al verme mojado, en el piso y todo sucio. me dice
 \- No ves que sos un maricon, UN dia fuiste al gymnasio
 
 The Wolverine path, dia 1.
+
+
+## Nutricion
+
+comer lo que quieras y que te guste.
+comer menos de lo que sabes que te hace mal y mas de lo que sabes que te hace bien
+comer mas en general.
+Lo que importa son las hormonas, no las calorias.
+la termodinamica no explica 3 cosas. Por que las galaxias se siguen acelerando. Como es que
+un electron aparece en orbitas superiores a la correspondiente a la energia que tiene. Y
+porque carajo no bajo de peso aunque no coma nada.
+
+## Lugar
+
+cualquier lugar, el gimnasio no sirve porque te restringe en el tiempo.
+Sin companeros, mismo problema que el gimnasio. Tenes que poder hacer ejercicio
+en cualquier lugar y momento.
+
+## tiempos
+
+lo mejor es hacer un poquito cada dia en lugar de matarte uno o dos dias. El
+ejercicio que haces en el gimnasio, es un ciclo que toma varios dias y tiene
+efectos durante tus comidas e incluso cuando estas durmiendo.
+

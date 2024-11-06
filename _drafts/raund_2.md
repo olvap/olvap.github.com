@@ -94,41 +94,41 @@ ibamos a tener que redefinir todo.
 
 Según los registros médicos y los comentarios de los profesionales
 intervinientes, el parto se realizó normalmente y sin dificultades. El tiempo
-transcurrido dentro del quirofano hasta el momento del nacimiento fue de apenas
+transcurrido dentro del quirófano hasta el momento del nacimiento fue de apenas
 20 minutos. La bebe pesó 3.750 kilos y nació en perfecto estado de salud.
 
 Lo que sigue a continuación es el recuerdo que YO tengo de lo ocurrido.
 
-Al segundo día de estar en el quirofano, ya no podía contar con mi cordura, lo
+Al segundo día de estar en el quirófano, ya no podía contar con mi cordura, lo
 sabía. Mi percepción del tiempo y la realidad estaban comprometidas. Mientras
 el obstetra le pedía a Liza que pujara con mas fuerza, la cara de ella se ponía
-tan roja que parecia que iba a explotar. La partera le apretaba la pansa con
-cada contracción y le pedía que mantubiera la respiración al pujar más tiempo
+tan roja que parecía que iba a explotar. La partera le apretaba la pansa con
+cada contracción y le pedía que mantuviera la respiración al pujar más tiempo
 del que era humanamente posible. Cuando me volteaba para ver el médico este la
 pinchaba con algo y luego la cortaba con unas tijeras como si fuera papel.  Yo
 solo atinaba a agarrarme la cabeza y cuando estaba por desmallarme tomé la mano
 de liza. Ella me agradeció pensado que lo hacía para apoyarla y no porque
 estaba a punto de despatarrarme por el piso.
 
-El obstetra dijo unas palabras y la parturienta empesó a hacer más fuerza, yo
-no entendí nada porque había perdido la capacidad de comprerder las palabras,
-lo único que oia era un balbuseo con pausas y un zumbido de fondo. Hizo tanta
+El obstetra dijo unas palabras y la parturienta empezó a hacer más fuerza, yo
+no entendí nada porque había perdido la capacidad de comprender las palabras,
+lo único que oía era un balbuceo con pausas y un zumbido de fondo. Hizo tanta
 fuerza que uno de sus ojos salió volando. Me agache a juntarlo pero la neblina
-era muy espesa y no vei nada por debajo de las rodillas.
+era muy espesa y no vea nada por debajo de las rodillas.
 
-La bebe empesó a nacer y parecia que el médico jugaba con una masa de
+La bebe empezó a nacer y parecía que el médico jugaba con una masa de
 plastilina, metiendo los dedos y doblando esa masa multicolor sin forma. Cuando
 salió una oreja pude entender que parte de la bebe estaba viendo y fue ahí
-cuando el obtetra estiró el cuello de la bebé tanto que pense que le iba a
-quedar un cuello de jirafa.
+cuando el obstetra estiró el cuello de la bebé tanto que pensé que le iba a
+quedar un cuello alargado.
 
-Cuando Uma nació tenia 2 cosas en la mano. Una era un rollito de papel blanco
-con una cintita roja en el medio. El médico corto la cintita, desplego el
+Finalmente Uma nació y traía 2 cosas en la mano. Una era un rollito de papel blanco
+con una cintita roja en el medio. El médico corto la cintita, desplegó el
 papel. Era un titulo de nobleza que declaraba a Uma Litith Oldani Dosso, la
-reina induscutible del mundo. estaba escrito en letras grandes e impresas, no
+reina indiscutible del mundo. Estaba escrito en letras grandes e impresas, no
 esas plantillas berretas que le completan con lapicera el nombre. La partera me
 declaro como "Sir Papá" y puso a la bebe sobre el pecho de la madre.
 
-Lo otro que traia Uma en la mano era un papelito doblado al medio. Del lado del
-frente decia "Para papá" y del lado de adentro un mensaje que solo lo leí yo y
-decia "Ahora vas a saber lo que es tener miedo"
+Lo otro que traía Uma en la mano era un papelito doblado al medio. Del lado del
+frente decía "Para papá" y del lado de adentro un mensaje que solo lo leí yo y
+decía "Ahora vas a saber lo que es tener miedo"
